@@ -1,0 +1,10 @@
+
+What is the program looking for as it processes? It is sorting the source code of the html to see if it is a command or text.
+
+Find a simple HTML file on the web and use it as input to this program.  What does it do? It sorts out the source code into commands and text.
+
+Make a list of the ideas in this program and describe how they are programmed.
+
+The program has the main function, write function, and the close function.  The write function is where the source code is sorted in text and commands.  
+The close function is where all the files are closed. Main function is where the previous two functions are called. 
+

@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lab 5 - File Input and Output
+
+
+
+
+
+
+
+
+
+
+Lab 5 - File Input and Output
+
+
+
+
+
+Review the following example program.
+
+
+
+
+
+HTML-CNVT_cpp
+
+
+
+
+
+For this program:
+
+
+
+
+	
+
+Convert it into the style we have been using. This 
+	involves the &quot;using namespace std&quot; and the use of strings.
+
+
+	
+
+Write a description of the functions in each program, 
+	including their usage, input, and output. Note the output may simply be a 
+	returned value.
+
+
+	
+
+Make the programs work and email them to me, along with 
+	your answers to the questions.
+
+
+
+
+
+
+What is the program looking for as it processes?&nbsp; 
+
+
+
+
+
+Find a simple HTML file on the web and use it as input to this 
+program.&nbsp; What does it do?
+
+
+
+
+Make a list of the ideas in this program and describe how they 
+are programmed.
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+
+
+    
+
+
+Computer Science Course Pages
+
+ are maintained by
+
+      Robert Tureman,
+ Assistant professor of Management
+    Information Systems at 
+Paul D. Camp Community College
+.
+    This page was last updated on 
+
+
+	Monday, January 09, 2006
+
+.
+
+  
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+ÿ
